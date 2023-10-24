@@ -1,6 +1,6 @@
 'use strict';
 
-const apiKey = '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';
+const apiKey = '';
 const apiEndpoint = 'https://api.openai.com/v1/chat/completions'
 const userInput = document.querySelector('#queryInput');
 const sendButton = document.querySelector('.search-form button');
